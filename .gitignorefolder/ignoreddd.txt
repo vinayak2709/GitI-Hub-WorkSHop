@@ -1,0 +1,1 @@
+this is normal file bt folder is ".gitignorefolder."  .
